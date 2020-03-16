@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="massage_name">null</string>
+    <string name="change">change</string>
+</resources>
